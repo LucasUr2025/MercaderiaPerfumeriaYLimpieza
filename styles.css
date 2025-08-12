@@ -20,7 +20,7 @@ input {
   border: none;
   padding-left: 30px;
   background-color: #ff5b4f;
-  background-image: url("https://github.com/LucasUr2025/MercaderiaPerfumeriaYLimpieza/blob/e3aaa27ff69a7afef7ae2e4b8d76cde738816823/img/Header/lupa.png");
+  background-image: url("https://raw.githubusercontent.com/LucasUr2025/MercaderiaPerfumeriaYLimpieza/refs/heads/main/lupa.png");
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: 10px center;
@@ -193,7 +193,7 @@ button:hover {
 }
 
 .marcas {
-  background-image: url("https://github.com/LucasUr2025/MercaderiaPerfumeriaYLimpieza/blob/e3aaa27ff69a7afef7ae2e4b8d76cde738816823/img/Marcas/Fondo.jpg");
+  background-image: url("https://raw.githubusercontent.com/LucasUr2025/MercaderiaPerfumeriaYLimpieza/refs/heads/main/Fondo.jpg");
   background-size: cover;
   background-position: center;
   height: 370px;
@@ -272,3 +272,4 @@ footer {
   text-align: center;
 
 }
+
